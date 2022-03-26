@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  ImageRecognition
 //
-//  Created by Jay on 3/26/22.
+//  Created by Poojan on 3/26/22.
 //
 
 import UIKit
